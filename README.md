@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Cześć, jestem Katarzyna Wójcik
 
-<!--
-**katarzynawojcik89/katarzynawojcik89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem blogerką technologiczną specjalizującą się w tematyce VPN, prywatności w sieci i cyberbezpieczeństwa.  
+Na co dzień piszę dla [vpn-portal.pl](https://vpn-portal.pl), gdzie tworzę treści edukacyjne, recenzje usług i poradniki.
 
-Here are some ideas to get you started:
+## ✍️ Czym się zajmuję?
+- Piszę artykuły o bezpieczeństwie cyfrowym
+- Tworzę poradniki i testy dla użytkowników VPN
+- Wspieram zespoły contentowe w tworzeniu dokumentacji i analiz SEO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Narzędzia i obszary zainteresowań:
+- Markdown, HTML
+- Cyberbezpieczeństwo i prywatność online
+- SEO dla blogów technologicznych
+- Notatki i organizacja z wykorzystaniem Notion, Obsidian
+
+## 🌐 Znajdziesz mnie też tutaj:
+- 🌍 Blog: [vpn-portal.pl](https://vpn-portal.pl)
+- ✉️ Email: katarzyna.wojcik@example.com
+
+> "Prywatność nie jest luksusem – to prawo." 🛡
