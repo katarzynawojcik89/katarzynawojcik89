@@ -16,6 +16,6 @@ Na co dzień piszę dla [vpn-portal.pl](https://vpn-portal.pl), gdzie tworzę tr
 
 ## 🌐 Znajdziesz mnie też tutaj:
 - 🌍 Blog: [vpn-portal.pl](https://vpn-portal.pl)
-- ✉️ Email: katarzyna.wojcik@example.com
+- ✉️ Email: katarzyna.wojcik89@proton.me
 
 > "Prywatność nie jest luksusem – to prawo." 🛡
